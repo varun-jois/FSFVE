@@ -4,7 +4,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-DCC%202025-blue)](assets/paper.pdf)
 [![Demo](https://img.shields.io/badge/Demo-SigPort-orange)](https://sigport.org/documents/fsfve)
-
+[![IEEE](https://img.shields.io/badge/IEEE-Xplore-blue)](https://ieeexplore.ieee.org/document/11510464)
 ---
 
 ## Demo
